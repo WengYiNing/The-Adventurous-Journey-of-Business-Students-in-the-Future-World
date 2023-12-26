@@ -1,0 +1,15 @@
+Playing mahjong with Sam Smith from abroad while practicing English, this foreigner has a couple of questions he wants to ask you. Help him clear up his doubts!
+Sam's questions are not many, only two, and each correct answer can earn him '20 points for Communication Skill'. However, the Lazy Index will increase by '20 points', but the Liver Index will decrease by 8 points!
+Communication Skill += Number of correct answers * 20, Lazy Index += Number of correct answers * (20), Liver Index += Number of correct answers * (-8)
+Question 1: Where are you now?
+Atlantis.
+I'm on my way.
+Not this one.
+Oh, you just read my mind!
+1
+Question 2: Where can I get the permission?
+Just put it on the scale.
+Never mind.
+You wish.
+You have to fill out this document first.
+4

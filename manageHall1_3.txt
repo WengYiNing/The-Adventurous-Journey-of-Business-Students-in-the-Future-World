@@ -1,0 +1,33 @@
+Computer science too challenging, so let's consider switching to information management. 
+In this test, there are a total of five questions, and each question is worth '10 points' for Programming Skill. However, be aware that the Liver Index will increase by 3 points, and the Lazy Index will also increase by 1 point. You'll have to earn all the points on your own!
+Programming Skill += Number of correct answers * 10, Liver Index += Number of correct answers * 3, Lazy Index += Number of correct answers * 1
+Question 1: In C++, what is the primary purpose of a virtual function?
+Improve program execution efficiency.
+Allow redefinition of the base class's function in the derived class.
+Prevent function overloading.
+Hide the implementation of the function.
+2
+Question 2: In C++, what is a pointer?
+A numeric data type.
+A container.
+A function.
+A variable that stores a memory address.
+4
+Question 3: In C++, what are cin and cout?
+Classes.
+Operators.
+Functions.
+Preprocessor directives.
+3
+Question 4: In C++, which is the way of 'Call by Value'?
+Function passes the address of parameters.
+Function passes a pointer.
+Function passes a copy of parameters.
+Function passes a reference to parameters.
+3
+Question 5: In C++, which is the increment operator?
+++
+--
++=
+*=
+1

@@ -1,0 +1,15 @@
+As a business elite, you must understand a bit about finance, right? Come and take my course!
+This course consists of two questions, and each question can earn you '15 points for Finance Knowledge' and '5 points for Communication Skill'. Come and build up your solid skills!
+Finance Knowledge += Number of correct answers * 15, Communication Skill += Number of correct answers * 5
+Question 1: What is an example of 'liability'?
+Accounts Payable
+Inventory
+Fixed assets
+Cash
+1
+Question 2: What is 'gross profit'?
+Sales revenue minus total costs
+Sales revenue minus depreciation
+Total income minus taxes
+Sales revenue minus fixed costs
+1

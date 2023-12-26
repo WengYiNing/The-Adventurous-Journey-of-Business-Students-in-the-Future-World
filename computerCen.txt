@@ -1,0 +1,33 @@
+Learned programming at school but nowhere to apply it? How about becoming a backend intern?
+This position requires a programming skills test, consisting of five questions. Each correct answer earns you 'Programming Skill: 15 points!!' Also, since we encourage diligence, 'Lazy Index deducts five points.' However, it comes with an increase in 'Liver Index by eight points.'
+Programming Skill += Number of Correct Answers * 15, Lazy Index += Number of Questions * (-5), Liver Index += Number of Questions * 8
+Question 1: In C++, what is the keyword used to define constants?
+constant
+const
+constan
+cnst
+2
+Question 2: In C++, what is the standard output stream object?
+cin
+cout
+cerr
+clog
+2
+Question 3: Which one is a conditional statement in C++?
+for
+while
+if
+switch
+3
+Question 4: In C++, which one is used to output to a file stream?
+cout
+fprintf
+ofstream
+fstream
+3
+Question 5: Which one represents a loop structure in C++?
+if
+switch
+for
+case
+3

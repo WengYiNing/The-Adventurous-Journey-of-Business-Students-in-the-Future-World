@@ -1,0 +1,15 @@
+If you want to become an analyst, you need to take an investment course. Don't be a homebody; come to class!
+This course consists of two questions, and each question can earn you '10 points for Finance Knowledge', '15 points for Quantitative Skill', and '15 points for Communication Skill'. It's a lot!
+Finance Knowledge += Number of correct answers * 10, Quantitative Skill += Number of correct answers * 15,Communication Skill += Number of correct answers * 15
+Question 1: In the 'Capital Asset Pricing Model' (CAPM), what represents market risk?
+Alpha
+Beta
+Gamma
+Delta
+2
+Question 2: What is a typical representative of the 'Risk-free Rate'?
+U.S. Treasury bond rates
+Stock market returns
+Bank deposit rates
+Gold prices
+1

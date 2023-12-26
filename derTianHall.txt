@@ -1,0 +1,34 @@
+Time to flaunt your skills at the strongest computer science department in the school; first, weigh yourself to know your worth!
+This test consists of five questions, each worth "12 points" for Programming Skill. However, be aware that Communication Skill deduct 1 point, and Liver Index adds 5 points. It's all up to you to earn every point!
+Programming Skill += Correct answers * 12, Communication Skill += Correct answers * (-1), Liver Index += Correct answers * 5
+Question 1: In C++, what are cin and cout?
+Character data types
+String data types
+Formatted input and output stream objects
+Integer data types
+3
+Question 2: Which loop structure in C++ follows the pattern "check condition first, then execute the body"?
+while
+do-while
+for
+if
+1
+Question 3: Which loop does not execute its body after satisfying the condition?
+for
+while
+do-while
+if-else
+3
+Question 4: Which operator is used for dynamic memory allocation in C++?
+&
+*
+new
+delete
+3
+Question 5: Which option is used to output text on the screen?
+"print("Hello");"
+"printf("Hello\n");"
+"cout >> "Hello";"
+"console.log("Hello");"
+2
+

@@ -1,0 +1,21 @@
+To become an analyst, you need to acquire some financial knowledge. Come and acquire the skills you need! 
+There are three questions in total, two related to finance and one related to economics. Each question is worth "15 points of Finance Knowledge!!!" Additionally, there is a "10-point!!!" bonus for Quantitative Skill. Don't miss out!
+Finance Knowledge += Number of correct answers * 15, Quantitative Skill += Number of correct answers * 10
+Question 1: What is the "market risk premium" in the Capital Asset Pricing Model (CAPM)?
+The risk-free rate available to investors in the market.
+The expected return on an asset.
+The slope of the capital market line.
+The part of the stock's expected return that exceeds the risk-free rate.
+4
+Question 2: What is "discounted cash flow"?
+Converting future cash flows into the equivalent present value.
+The actual flow of cash.
+Calculation of the cash flow ratio.
+Recording cash on the company's balance sheet.
+1
+Question 3: What is the "no-arbitrage condition" in Monetary Policy?
+Money supply equals the inflation rate.
+No profit opportunities exist when interest rates are equal.
+The central bank cannot adjust interest rates.
+The value of money is equal to gold.
+2
