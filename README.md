@@ -1,4 +1,4 @@
-# The-Adventurous-Journey-of-Business-Students-in-the-Future-World
+# The Adventurous Journey of Business Students in the Future World
 
 ## Project Theme
 The game is set in the year 2105 when technology has reached advanced levels, societal structures have transformed, and even education has evolved. 
